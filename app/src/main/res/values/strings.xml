@@ -1,0 +1,17 @@
+<resources>
+
+
+    <string name="Areca">SharedPreferences</string>
+    <!--string for login button-->
+    <string name="login">Login</string>
+    <!--string for edittext hint in password-->
+    <string name="enter_password">Enter password</string>
+    <!--string for edittext hint in email-->
+    <string name="enter_your_email">Enter your Email</string>
+    <!--string for logout button-->
+    <string name="logout">Logout</string>
+    <string name="app_name">Areca</string>
+
+
+</resources>
+
